@@ -1,0 +1,83 @@
+[
+    {
+        "dialog_id": "dia_1768109888946",
+        "user_input": "你好",
+        "pet_reply": "很高兴见到你！",
+        "related_dialog_id": "",
+        "timestamp": 1768109888946,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768109894295",
+        "user_input": "1",
+        "pet_reply": "我还在学习中～",
+        "related_dialog_id": "",
+        "timestamp": 1768109894295,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768110396116",
+        "user_input": "你好",
+        "pet_reply": "你好呀！我是学习桌宠",
+        "related_dialog_id": "",
+        "timestamp": 1768110396116,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768110403621",
+        "user_input": "1",
+        "pet_reply": "这个我还不太懂，教教我吧",
+        "related_dialog_id": "",
+        "timestamp": 1768110403622,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768111050143",
+        "user_input": "你好",
+        "pet_reply": "你好呀！我是学习桌宠",
+        "related_dialog_id": "",
+        "timestamp": 1768111050143,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768111059089",
+        "user_input": "1",
+        "pet_reply": "我还在学习中～",
+        "related_dialog_id": "",
+        "timestamp": 1768111059089,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768114587533",
+        "user_input": "数学",
+        "pet_reply": "2×3=6",
+        "related_dialog_id": "",
+        "timestamp": 1768114587533,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768114624808",
+        "user_input": "1+1=",
+        "pet_reply": "这个我还不太懂，教教我吧",
+        "related_dialog_id": "",
+        "timestamp": 1768114624808,
+        "rating": null,
+        "weight": 1.0
+    },
+    {
+        "dialog_id": "dia_1768114631025",
+        "user_input": "1+1=2",
+        "pet_reply": "我还在学习中～",
+        "related_dialog_id": "",
+        "timestamp": 1768114631025,
+        "rating": null,
+        "weight": 1.0
+    }
+]

@@ -1,0 +1,153 @@
+{
+    "explored_topics": [],
+    "user_responses": {},
+    "discoveries": [],
+    "success_rate": 0.5833333333333334,
+    "last_exploration": null,
+    "explorations": [
+        {
+            "exploration_id": "exp_1768109705881",
+            "user_response": "我对编程很感兴趣！",
+            "is_successful": true,
+            "timestamp": 1768109705.881408
+        },
+        {
+            "exploration_id": "exp_1768109705881",
+            "user_response": "不太想聊这个",
+            "is_successful": true,
+            "timestamp": 1768109705.881408
+        },
+        {
+            "exploration_id": "exp_1768109705882",
+            "user_response": "可以，聊聊吧",
+            "is_successful": true,
+            "timestamp": 1768109705.88241
+        },
+        {
+            "exploration_id": "exp_1768109705882",
+            "user_response": "换个话题",
+            "is_successful": false,
+            "timestamp": 1768109705.88241
+        },
+        {
+            "exploration_id": "exp_1768109705882",
+            "user_response": "我想学这个",
+            "is_successful": true,
+            "timestamp": 1768109705.88241
+        },
+        {
+            "exploration_id": "exp_1768109751225",
+            "user_response": "我很感兴趣！",
+            "is_successful": true,
+            "timestamp": 1768109751.225045
+        },
+        {
+            "exploration_id": "exp_1768109751225",
+            "user_response": "换个话题",
+            "is_successful": false,
+            "timestamp": 1768109751.2255483
+        },
+        {
+            "exploration_id": "exp_e72295ec_1768110324544",
+            "user_response": "我对编程很感兴趣！",
+            "is_successful": true,
+            "timestamp": 1768110324.5449512
+        },
+        {
+            "exploration_id": "exp_419a87fc_1768110324545",
+            "user_response": "我很感兴趣！",
+            "is_successful": true,
+            "timestamp": 1768110324.5459569
+        },
+        {
+            "exploration_id": "exp_be5f81a7_1768110324545",
+            "user_response": "不太想聊这个",
+            "is_successful": true,
+            "timestamp": 1768110324.5459569
+        },
+        {
+            "exploration_id": "exp_6e158ba5_1768110324546",
+            "user_response": "可以，聊聊吧",
+            "is_successful": true,
+            "timestamp": 1768110324.5469577
+        },
+        {
+            "exploration_id": "exp_95c6081b_1768110324546",
+            "user_response": "换个话题",
+            "is_successful": false,
+            "timestamp": 1768110324.5469577
+        },
+        {
+            "exploration_id": "exp_d0a1945e_1768110324546",
+            "user_response": "我想学这个",
+            "is_successful": true,
+            "timestamp": 1768110324.5469577
+        },
+        {
+            "exploration_id": "exp_bd8101c8_1768110478535",
+            "user_response": "水果",
+            "is_successful": false,
+            "timestamp": 1768110498.8960378
+        },
+        {
+            "exploration_id": "exp_8af4319f_1768110735103",
+            "user_response": "我对编程很感兴趣！",
+            "is_successful": true,
+            "timestamp": 1768110735.1032407
+        },
+        {
+            "exploration_id": "exp_00b0f4fd_1768110735105",
+            "user_response": "我很感兴趣！",
+            "is_successful": true,
+            "timestamp": 1768110735.105775
+        },
+        {
+            "exploration_id": "exp_f1a3689d_1768110735105",
+            "user_response": "不太想聊这个",
+            "is_successful": false,
+            "timestamp": 1768110735.105775
+        },
+        {
+            "exploration_id": "exp_8b852e51_1768110735105",
+            "user_response": "可以，聊聊吧",
+            "is_successful": true,
+            "timestamp": 1768110735.105775
+        },
+        {
+            "exploration_id": "exp_0c3bbaf0_1768110735105",
+            "user_response": "换个话题",
+            "is_successful": false,
+            "timestamp": 1768110735.105775
+        },
+        {
+            "exploration_id": "exp_7d6e234c_1768110735106",
+            "user_response": "我想学这个",
+            "is_successful": true,
+            "timestamp": 1768110735.1067765
+        },
+        {
+            "exploration_id": "exp_63bb9270_1768111135599",
+            "user_response": "篮球",
+            "is_successful": false,
+            "timestamp": 1768111152.0662076
+        },
+        {
+            "exploration_id": "exp_38a02811_1768114528505",
+            "user_response": "数学",
+            "is_successful": false,
+            "timestamp": 1768114543.9238558
+        },
+        {
+            "exploration_id": "exp_35dc3ff9_1768114648503",
+            "user_response": "1+1+1=3",
+            "is_successful": false,
+            "timestamp": 1768114661.0181723
+        },
+        {
+            "exploration_id": "exp_1e8b6644_1768114768506",
+            "user_response": "好",
+            "is_successful": false,
+            "timestamp": 1768114776.6120799
+        }
+    ]
+}

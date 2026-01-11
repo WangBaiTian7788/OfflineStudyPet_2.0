@@ -1,0 +1,23 @@
+[
+    {
+        "dialog_id": "dia_1768111050143",
+        "related_dialog_id": "",
+        "weight_id": "dia_1768111050143",
+        "rating": 5,
+        "timestamp": 1768111054224
+    },
+    {
+        "dialog_id": "dia_1768111059089",
+        "related_dialog_id": "",
+        "weight_id": "dia_1768111059089",
+        "rating": 1,
+        "timestamp": 1768111063440
+    },
+    {
+        "dialog_id": "dia_1768114587533",
+        "related_dialog_id": "",
+        "weight_id": "dia_1768114587533",
+        "rating": 4,
+        "timestamp": 1768114614748
+    }
+]

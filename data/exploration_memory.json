@@ -1,0 +1,73 @@
+{
+    "facts": [
+        {
+            "id": "mem_c53ef370_1768110735102",
+            "type": "facts",
+            "content": {
+                "fact": "用户喜欢学习编程",
+                "keywords": [
+                    "编程",
+                    "学习"
+                ]
+            },
+            "importance": 0.8,
+            "context": {},
+            "timestamp": "2026-01-11T13:52:15.102239",
+            "access_count": 1,
+            "last_accessed": "2026-01-11T13:52:15.102239"
+        }
+    ],
+    "preferences": [],
+    "conversations": [],
+    "discoveries": [
+        {
+            "id": "mem_1768109636649",
+            "type": "discoveries",
+            "content": {
+                "test": "测试记忆存储"
+            },
+            "importance": 0.5,
+            "context": {},
+            "timestamp": "2026-01-11T13:33:56.649548",
+            "access_count": 2,
+            "last_accessed": "2026-01-11T13:52:15.102239"
+        }
+    ],
+    "timeline": [
+        {
+            "memory_id": "mem_1768109636649",
+            "type": "discoveries",
+            "summary": "{'test': '测试记忆存储'}",
+            "timestamp": "2026-01-11T13:33:56.649548"
+        },
+        {
+            "memory_id": "mem_44a12c2a_1768110682992",
+            "type": "test",
+            "summary": "{'content': '测试内容', 'keywords': ['测试']}",
+            "timestamp": "2026-01-11T13:51:22.992431"
+        },
+        {
+            "memory_id": "mem_c53ef370_1768110735102",
+            "type": "facts",
+            "summary": "{'fact': '用户喜欢学习编程', 'keywords': ['编程', '学习']}",
+            "timestamp": "2026-01-11T13:52:15.102239"
+        }
+    ],
+    "test": [
+        {
+            "id": "mem_44a12c2a_1768110682992",
+            "type": "test",
+            "content": {
+                "content": "测试内容",
+                "keywords": [
+                    "测试"
+                ]
+            },
+            "importance": 0.5,
+            "context": {},
+            "timestamp": "2026-01-11T13:51:22.992431",
+            "access_count": 2,
+            "last_accessed": "2026-01-11T13:52:15.102239"
+        }
+    ]
+}

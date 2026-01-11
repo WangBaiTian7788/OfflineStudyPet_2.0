@@ -1,0 +1,63 @@
+# 智能学习桌宠配置
+
+agent:
+  name: "小桌"
+  version: "2.0"
+
+  personality:
+    openness: 0.7
+    conscientiousness: 0.6
+    extraversion: 0.4
+    agreeableness: 0.8
+    neuroticism: 0.3
+
+  learning:
+    default_exploration_rate: 0.3
+    curiosity_decay: 0.01
+    learning_rate: 0.1
+
+  memory:
+    short_term_capacity: 10
+    long_term_consolidation_threshold: 0.7
+    forgetting_rate: 0.05
+
+ui:
+  window:
+    default_width: 100
+    default_height: 100
+    default_x: 500
+    default_y: 300
+
+  chat:
+    max_messages: 100
+    font_size: 10
+    bubble_style: "wechat"
+
+  emotions:
+    display_size: 30
+    update_interval: 1000
+
+services:
+  interaction:
+    max_conversation_length: 50
+    save_interval: 5
+
+  learning:
+    review_interval: 86400  # 24小时
+    difficulty_adjustment: 0.05
+
+  memory:
+    auto_save: true
+    backup_count: 5
+
+logging:
+  level: "INFO"
+  file: "data/logs/deskpet.log"
+  max_size: 10485760  # 10MB
+  backup_count: 5
+
+paths:
+  data: "data/"
+  resources: "resources/"
+  images: "resources/images/"
+  logs: "data/logs/"
